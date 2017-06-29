@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">Hack@Home</string>
+    <string name ="Validate">Validate</string>
+    <string name="TxtMail">Email:</string>
+    <string name="TxtPass">Password:</string>
+    <string name="Evidence">Evidences</string>
+    <string name="ErrorLogin">Login failed. Verify your credentials.</string>  
+    <string name="Ok">OK</string>
+    <string name="Desc">Description:</string>
+</resources>

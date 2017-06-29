@@ -1,0 +1,13 @@
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters.dll
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters.pdb
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters.apk
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters-Signed.apk
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.Entities.dll
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.Entities.pdb
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\HackAtHome.CustomAdapters.csprojResolveAssemblyReference.cache
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\HackAtHome.CustomAdapters.dll
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\HackAtHome.CustomAdapters.pdb
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\android\bin\HackAtHome.CustomAdapters.apk
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\res\values\strings.xml
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\R.cs.flag
+C:\Users\JMARTIN\Documents\Visual Studio 2015\Projects\Labs\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\uploadflags.txt
